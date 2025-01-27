@@ -23,9 +23,8 @@ I hope you find some interesting repositories.
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" alt="nix" width="160"/>
     
 </div>
-<div>
-	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fallaxe&show_icons=true&locale=en&layout=compact" alt="tommyypasto" /></p>
-</div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fallaxe&show_icons=true&locale=en&layout=compact" alt="tommyypasto" /></p>
 ## social
 <div>
 	<a href="https://instagram.com/ilfallaci" target="_blank">
