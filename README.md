@@ -14,15 +14,8 @@ I hope you find some interesting repositories.
 > *« when life makes you say **"I can't do this"**, just add a **"yet"** in the sentence» 
 > 	~ probably someone who loves inspirational quotes*
 ## skills
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
-	    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/>
-	    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="60"/>
-	    
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="risc-v" width="70"/>
-</div>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="risc-v" width="70"/>
 <div>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PYTHON" width="60"/>
     
