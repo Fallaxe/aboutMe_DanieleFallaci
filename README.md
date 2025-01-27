@@ -22,7 +22,7 @@ I hope you find some interesting repositories.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" alt="nix" width="160"/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fallaxe&show_icons=true&locale=en&layout=compact" alt="tommyypasto" /></p>
-# social
+<h2> social</h2>
 <div>
 	<a href="https://instagram.com/ilfallaci" target="_blank">
 	    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oxdani" width="100"/>
