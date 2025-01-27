@@ -10,7 +10,7 @@ I'd like to pursue a career in cybersecurity.
 In this github profile I would like to share you my university projects and ideas. 
 I hope you find some interesting repositories.
 
-> [!mindset]
+>My mindset
 > *« when life makes you say **"I can't do this"**, just add a **"yet"** in the sentence» 
 > 	~ probably someone who loves inspirational quotes*
 ## skills
